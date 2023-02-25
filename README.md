@@ -1,1 +1,1 @@
-live deployed link --> https://south-paradise.netlify.app/
+live deployed link --> https://hackthon-restaurant-project.netlify.app/
